@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="How it works: 1 GSC data, 2 analyse CTR and positions, 3 read pages and find keyword gaps, 4 Claude writes titles, plans and content chunks, 5 Excel working sheet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070d1c"/><stop offset="1" stop-color="#101a3a"/>
+    </linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#475569"/>
+    </marker>
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .pulse { animation: pulse 5s ease-in-out infinite; }
+    .p2 { animation-delay: 1s; } .p3 { animation-delay: 2s; } .p4 { animation-delay: 3s; } .p5 { animation-delay: 4s; }
+    @keyframes pulse { 0%,100% { stroke-opacity: .35; } 10%,20% { stroke-opacity: 1; } }
+    .flow { stroke-dasharray: 6 6; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -12; } }
+  </style>
+  <rect width="1200" height="270" rx="22" fill="url(#bg)"/>
+
+  <g class="f">
+    <!-- Step cards: x positions 30, 262, 494, 726, 958 ; width 212 -->
+    <g transform="translate(30,40)">
+      <rect class="pulse" width="212" height="190" rx="16" fill="#0b1324" stroke="#22d3ee" stroke-width="2"/>
+      <circle cx="30" cy="32" r="16" fill="#22d3ee" fill-opacity=".15" stroke="#22d3ee"/><text x="30" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#a5f3fc">1</text>
+      <text x="56" y="38" font-size="17" font-weight="700" fill="#f8fafc">GSC data</text>
+      <text x="20" y="74" font-size="13" fill="#cbd5e1">Page + query export,</text>
+      <text x="20" y="94" font-size="13" fill="#cbd5e1">UI zip / Excel, or a</text>
+      <text x="20" y="114" font-size="13" fill="#cbd5e1">GSC connector</text>
+      <text x="20" y="160" class="mono" font-size="11" fill="#64748b">clicks · impr ·</text>
+      <text x="20" y="176" class="mono" font-size="11" fill="#64748b">ctr · position</text>
+    </g>
+    <g transform="translate(262,40)">
+      <rect class="pulse p2" width="212" height="190" rx="16" fill="#0b1324" stroke="#f87171" stroke-width="2"/>
+      <circle cx="30" cy="32" r="16" fill="#f87171" fill-opacity=".15" stroke="#f87171"/><text x="30" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#fecaca">2</text>
+      <text x="56" y="38" font-size="17" font-weight="700" fill="#f8fafc">Analyse</text>
+      <text x="20" y="74" font-size="13" fill="#cbd5e1">Low CTR vs expected</text>
+      <text x="20" y="94" font-size="13" fill="#cbd5e1">CTR for the position;</text>
+      <text x="20" y="114" font-size="13" fill="#cbd5e1">pages on Google 2-3</text>
+      <text x="20" y="160" class="mono" font-size="11" fill="#64748b">analyze_gsc.py</text>
+    </g>
+    <g transform="translate(494,40)">
+      <rect class="pulse p3" width="212" height="190" rx="16" fill="#0b1324" stroke="#a78bfa" stroke-width="2"/>
+      <circle cx="30" cy="32" r="16" fill="#a78bfa" fill-opacity=".15" stroke="#a78bfa"/><text x="30" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#ddd6fe">3</text>
+      <text x="56" y="38" font-size="17" font-weight="700" fill="#f8fafc">Find gaps</text>
+      <text x="20" y="74" font-size="13" fill="#cbd5e1">Reads each page and</text>
+      <text x="20" y="94" font-size="13" fill="#cbd5e1">flags queries it ranks</text>
+      <text x="20" y="114" font-size="13" fill="#cbd5e1">for but doesn't use</text>
+      <text x="20" y="160" class="mono" font-size="11" fill="#64748b">fetch_pages.py</text>
+      <text x="20" y="176" class="mono" font-size="11" fill="#64748b">find_gaps.py</text>
+    </g>
+    <g transform="translate(726,40)">
+      <rect class="pulse p4" width="212" height="190" rx="16" fill="#0b1324" stroke="#fbbf24" stroke-width="2"/>
+      <circle cx="30" cy="32" r="16" fill="#fbbf24" fill-opacity=".15" stroke="#fbbf24"/><text x="30" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#fde68a">4</text>
+      <text x="56" y="38" font-size="17" font-weight="700" fill="#f8fafc">Claude writes</text>
+      <text x="20" y="74" font-size="13" fill="#cbd5e1">New titles + metas,</text>
+      <text x="20" y="94" font-size="13" fill="#cbd5e1">push-to-page-1 plans,</text>
+      <text x="20" y="114" font-size="13" fill="#cbd5e1">content chunks</text>
+      <text x="20" y="160" class="mono" font-size="11" fill="#64748b">3 playbooks guide</text>
+      <text x="20" y="176" class="mono" font-size="11" fill="#64748b">every suggestion</text>
+    </g>
+    <g transform="translate(958,40)">
+      <rect class="pulse p5" width="212" height="190" rx="16" fill="#0b1324" stroke="#34d399" stroke-width="2"/>
+      <circle cx="30" cy="32" r="16" fill="#34d399" fill-opacity=".15" stroke="#34d399"/><text x="30" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#bbf7d0">5</text>
+      <text x="56" y="38" font-size="17" font-weight="700" fill="#f8fafc">Working sheet</text>
+      <text x="20" y="74" font-size="13" fill="#cbd5e1">9-tab Excel with live</text>
+      <text x="20" y="94" font-size="13" fill="#cbd5e1">formulas, priorities</text>
+      <text x="20" y="114" font-size="13" fill="#cbd5e1">and an action plan</text>
+      <text x="20" y="160" class="mono" font-size="11" fill="#64748b">build_report.py</text>
+      <text x="20" y="176" class="mono" font-size="11" fill="#64748b">verify_workbook.py</text>
+    </g>
+  </g>
+
+  <g stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arr)">
+    <line class="flow" x1="244" y1="135" x2="258" y2="135"/>
+    <line class="flow" x1="476" y1="135" x2="490" y2="135"/>
+    <line class="flow" x1="708" y1="135" x2="722" y2="135"/>
+    <line class="flow" x1="940" y1="135" x2="954" y2="135"/>
+  </g>
+</svg>

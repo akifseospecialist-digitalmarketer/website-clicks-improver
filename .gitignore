@@ -1,0 +1,21 @@
+# Keep client data out of the repo
+*.xlsx
+*.xls
+*.csv
+*.zip
+work/
+outputs/
+reports/
+clients/
+
+# ...but keep the fictional sample files
+!examples/*.csv
+!examples/*.xlsx
+
+# Python / OS / editor
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

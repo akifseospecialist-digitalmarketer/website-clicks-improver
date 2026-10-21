@@ -1,0 +1,199 @@
+{
+  "site_name": "Harbour Dental (fictional example)",
+  "pages": {
+    "https://www.harbourdental.example/services/teeth-whitening/": {
+      "diagnosis": "Ranks about #3 for 'teeth whitening parramatta' and 'teeth whitening near me' (6,600+ impressions) but earns less than half the CTR that position should get. The 73-char title is cut off before it says anything useful, and the 38-char meta gives searchers no reason to pick this result.",
+      "title_options": [
+        "Teeth Whitening Parramatta | Brighter Smile in One Visit",
+        "Professional Teeth Whitening in Parramatta | Harbour Dental"
+      ],
+      "meta_options": [
+        "Professional teeth whitening in Parramatta: in-chair results in about an hour, plus custom take-home kits to keep your smile bright. Book online today.",
+        "Whiter teeth in one visit at Harbour Dental Parramatta. Dentist-checked in-chair whitening and custom take-home kits. Open six days. Book online now."
+      ],
+      "h1_suggestion": "Professional Teeth Whitening in Parramatta",
+      "other_fixes": [
+        "Add the FAQ block (chunk C4): question searches bring ~1,600 impressions a period",
+        "Let /blog/teeth-whitening-cost/ own 'teeth whitening cost' (both pages compete for it). Add a short price teaser + link (chunk C2) instead of a full price section here"
+      ]
+    },
+    "https://www.harbourdental.example/services/invisalign/": {
+      "diagnosis": "43% of impressions are price searches ('invisalign cost', 'invisalign payment plans'), but the title is just 'Invisalign' (10 chars) and there is no meta description. The result gives price-shoppers no reason to pick it over clinics that show prices.",
+      "title_options": [
+        "Invisalign Parramatta: Cost & Payment Plans Explained",
+        "Invisalign Cost in Parramatta | Clear Aligners from [price]"
+      ],
+      "meta_options": [
+        "Invisalign in Parramatta from [price], with payment plans to spread the cost. A 3D scan shows how your teeth will move before you start. Book a consult.",
+        "Thinking about Invisalign in Parramatta? See what clear aligners cost, how long treatment takes and how payment plans work. Book your 3D scan today."
+      ],
+      "h1_suggestion": "Invisalign Clear Aligners in Parramatta",
+      "other_fixes": [
+        "Confirm the starting price and payment-plan details before publishing (placeholders in title/meta)",
+        "Add the pricing section (chunk C1) so the page delivers what the new snippet promises"
+      ]
+    },
+    "https://www.harbourdental.example/blog/invisalign-vs-braces/": {
+      "diagnosis": "Every impression is a comparison search, but the title tag is the blog template 'Blog | Harbour Dental' and the meta is boilerplate. Searchers can't tell this is the Invisalign vs braces comparison they want, so they click the results that say it.",
+      "title_options": [
+        "Invisalign vs Braces: Cost, Speed & Comfort Compared",
+        "Invisalign or Braces for Adults? Pros, Cons & Costs"
+      ],
+      "meta_options": [
+        "Invisalign vs braces compared side by side: cost, treatment time, comfort and looks. Find out which suits adults and teens best, from a Parramatta dentist.",
+        "Braces or Invisalign? Compare cost, how fast each works, pros and cons, and which is better for adults. Clear table plus a dentist's honest verdict."
+      ],
+      "other_fixes": [
+        "Fix the blog template so every post uses its own title tag, not 'Blog | Harbour Dental' (check other posts too)",
+        "Add the comparison table (chunk C1) right after the intro so the page matches the comparison intent"
+      ]
+    },
+    "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/": {
+      "diagnosis": "Title and meta are on-topic, so the snippet isn't the main problem. For a question like 'how long do dental implants last', Google likely answers in an AI Overview or featured snippet, so fewer people need to click. Check the live SERP. Then win the answer box with a 40-60 word answer under the H1, and give the snippet a reason to click (implant vs crown lifespan, warning signs).",
+      "title_options": [
+        "How Long Do Dental Implants Last? Lifespan & Warning Signs",
+        "Do Dental Implants Last Forever? Implant vs Crown Lifespan"
+      ],
+      "meta_options": [
+        "With good care an implant post can last for decades, while the crown on top usually lasts 10-15 years. See what shortens implant life and warning signs.",
+        "Dental implants can last a lifetime, but the crown wears out sooner. See typical lifespans, what affects them, signs of failure and how to protect yours."
+      ],
+      "other_fixes": [
+        "Add a 40-60 word direct answer as the first paragraph: post lasts decades with care, crown typically 10-15 years",
+        "Add Article schema with datePublished/dateModified and show the updated date on the page"
+      ]
+    },
+    "https://www.harbourdental.example/services/dental-implants/": {
+      "diagnosis": "Ranks 11-20 for seven implant queries but never mentions cost, even though 'dental implants cost' alone brings 4,000+ impressions. Searches for All-on-4 and single-tooth implants also land here with nothing to answer them. At about 90 words the page is far thinner than the guides that typically rank top 3.",
+      "actions": [
+        "Add chunk C1 (pricing section: 'dental implants cost', 'payment plan', 4,402 impressions) right after the intro",
+        "Add chunks C2 (All-on-4) and C3 (single tooth implant) as new H2 sections: 2,464 impressions currently land on a page that never mentions them",
+        "Add the FAQ (chunk C4, 'Are dental implants painful?') before 'Why choose Harbour Dental'",
+        "Internal links: from /blog/how-long-do-dental-implants-last/ (anchor 'dental implants') and from the homepage services block",
+        "Update the title to 'Dental Implants Parramatta | Cost, All-on-4 & Single Tooth' once the new sections are live",
+        "Add trust signals: implant dentist bio, years of experience, real before/after photos, implant brand and warranty"
+      ]
+    },
+    "https://www.harbourdental.example/services/root-canal/": {
+      "diagnosis": "Page 3 (pos ~25) for 'root canal treatment' (3,350 impressions) with a page of about 90 words. The queries show people want cost, pain and recovery answers, and the page covers none of them. This needs an expansion, not tweaks.",
+      "actions": [
+        "Expand the page to a full root canal guide (aim to cover: signs, steps, pain, recovery, cost, aftercare) using chunks C1-C4",
+        "Add chunk C1 (cost section) and chunk C4 (recovery time) as new H2s; add the FAQ chunk C2 ('Does a root canal hurt?')",
+        "Work 'root canal treatment in Parramatta' into the intro and H1 (chunk C3)",
+        "Link from /services/emergency-dentist/ (782 clicks; toothache visitors often need a root canal) with anchor 'root canal treatment'",
+        "Link from /services/dental-crowns/ where it mentions crowns after root canals",
+        "Request indexing in GSC after the update and re-check in 6-8 weeks (page 3 moves slower)"
+      ],
+      "internal_links": [
+        {"source": "https://www.harbourdental.example/services/emergency-dentist/", "source_clicks": 782, "anchor": "root canal treatment", "why": "Strongest service page; toothache and emergency visitors are often root canal candidates"},
+        {"source": "https://www.harbourdental.example/services/dental-crowns/", "source_clicks": 18, "anchor": "root canal", "why": "Topically linked: crowns are often placed after a root canal"}
+      ]
+    },
+    "https://www.harbourdental.example/blog/teeth-whitening-cost/": {
+      "diagnosis": "A cost page that doesn't show a single price ('Contact us for current prices'), so it can't satisfy any of its price queries. It also competes with the teeth whitening service page for 'teeth whitening cost' (5,300 impressions split between the two).",
+      "actions": [
+        "Add chunk C1 right after the intro: price table for in-chair, Zoom and take-home whitening, plus what changes the price",
+        "Make this page the owner of 'teeth whitening cost': the service page links here with that anchor (chunk C2 on the service page) and drops cost from its title",
+        "Add an 'In-chair vs take-home: which is better value?' paragraph comparing results and price per treatment",
+        "Retitle to 'Teeth Whitening Cost: In-Chair, Zoom & Take-Home Prices' and show an updated date",
+        "Add author/dentist byline and link to the service page with anchor 'professional teeth whitening'"
+      ]
+    },
+    "https://www.harbourdental.example/services/childrens-dentistry/": {
+      "diagnosis": "Sits at the top of page 2 (~13) for 'kids dentist near me' and 'childrens dentist parramatta', but the page never names Parramatta or mentions the Child Dental Benefits Schedule or bulk billing, which parents are clearly searching for (2,400+ impressions).",
+      "actions": [
+        "Add the location sentence (chunk C3) and local signals (chunk C1) to the intro",
+        "Add chunk C2 (Child Dental Benefits Schedule section) with chunk C4 (bulk billing) inside it",
+        "Add chunk C5 ('When should your child first see a dentist?') as a new H2",
+        "Rename the H1 to 'Children's Dentist in Parramatta'",
+        "Link from the homepage and from /services/emergency-dentist/ ('children's dentist')"
+      ]
+    },
+    "https://www.harbourdental.example/services/dental-crowns/": {
+      "diagnosis": "Page 3 (pos ~26) with a 40-word page. Cost searches are half of all impressions ('dental crown cost'), and 'crown vs filling' and 'porcelain crowns' have no matching content. The page needs to become a real service page before tweaks will matter.",
+      "actions": [
+        "Rewrite into a full crowns page: what a crown is, when you need one, crown vs filling (chunk C4), materials, cost (chunk C1), the process, aftercare",
+        "Add chunk C1 (cost section) and chunk C4 (crown vs filling table) as new H2s",
+        "Apply the sentence edit for 'porcelain crowns' (chunk C2) and the location sentence (chunk C3)",
+        "Link from /services/root-canal/ ('a crown to protect the tooth') and from the homepage services block",
+        "Retitle to 'Dental Crowns Parramatta | Cost, Porcelain & Zirconia Crowns'"
+      ]
+    }
+  },
+  "chunks": [
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C1", "keywords": ["teeth whitening parramatta"], "chunk_type": "Location sentence", "placement": "First sentence of the intro + H1",
+     "heading": "", "content": "Looking for teeth whitening in Parramatta? Our team at Harbour Dental provides professional whitening for adults who want to lift stains from coffee, tea, red wine and smoking.", "notes": ""},
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C2", "keywords": ["teeth whitening cost"], "chunk_type": "Teaser + link (another page owns this query)", "placement": "Short paragraph before 'Book Your Appointment'",
+     "heading": "How much does teeth whitening cost?", "content": "The cost of teeth whitening depends on whether you choose an in-chair session or a take-home kit. In-chair whitening starts from [price] and take-home kits from [price]. See our full teeth whitening cost guide for a breakdown of every option.", "notes": "Link 'teeth whitening cost guide' to /blog/teeth-whitening-cost/. Confirm both prices. Don't add a full price table here - the cost page owns this query."},
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C3", "keywords": ["professional teeth whitening"], "chunk_type": "Heading edit", "placement": "H2 'Our Whitening Treatments'",
+     "heading": "Professional Teeth Whitening Treatments", "content": "H2 'Our Whitening Treatments' -> 'Professional Teeth Whitening Treatments'", "notes": ""},
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C4", "keywords": ["how long does teeth whitening last", "is teeth whitening safe"], "chunk_type": "FAQ", "placement": "New FAQ section before 'Book Your Appointment'",
+     "heading": "Teeth whitening FAQs", "content": "Q: How long does teeth whitening last?\nA: Professional whitening usually lasts from [6 months to 2 years]. How long yours lasts depends on what you eat and drink, whether you smoke and how well you care for your teeth. Using your take-home trays for a quick top-up every few months keeps your smile bright for longer.\n\nQ: Is teeth whitening safe?\nA: Yes. Teeth whitening is safe when it's done or supervised by a dentist. We check your teeth and gums first, protect your gums during treatment and use professional gels at the right strength. Some people feel temporary sensitivity for a day or two, which settles on its own.", "notes": "Confirm the typical result duration the clinic quotes."},
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C5", "keywords": ["zoom teeth whitening"], "chunk_type": "New H3 section", "placement": "New H3 under 'Professional Teeth Whitening Treatments', after the in-chair paragraph",
+     "heading": "Zoom teeth whitening", "content": "Zoom teeth whitening is a popular in-chair system that uses a professional whitening gel activated by a special light. [It is one of the in-chair options we offer at our Parramatta clinic.] A session takes about an hour, and many patients see their teeth several shades lighter by the time they leave. We'll check whether Zoom or another in-chair option suits your teeth during your consultation.", "notes": "Only publish if the clinic actually offers Zoom. If not, replace with a sentence explaining the in-chair system it does use."},
+    {"url": "https://www.harbourdental.example/services/teeth-whitening/", "cluster": "C6", "keywords": ["in chair teeth whitening"], "chunk_type": "Sentence edit", "placement": "First sentence under 'Professional Teeth Whitening Treatments'",
+     "heading": "", "content": "Before: \"We offer an in-chair whitening session that takes about one hour.\"\nAfter: \"Our in-chair teeth whitening session takes about one hour.\"", "notes": ""},
+
+    {"url": "https://www.harbourdental.example/services/invisalign/", "cluster": "C1", "keywords": ["invisalign cost", "invisalign payment plans"], "chunk_type": "Pricing section", "placement": "New H2 after 'Who is Invisalign suitable for?'",
+     "heading": "How much does Invisalign cost?", "content": "Invisalign at our Parramatta clinic typically costs [price range], depending on how complex your case is. We confirm your exact price after your 3D scan, so there are no surprises.\nWhat affects the cost:\n- How far your teeth need to move\n- The number of aligners in your plan\n- Whether you need refinement aligners at the end\n- Retainers to hold your new smile in place\nInvisalign payment plans let you spread the cost over [term] from [$X per week]. Ask about health fund rebates for orthodontic cover.", "notes": "Confirm price range, payment-plan term and weekly amount, and whether health fund rebates apply."},
+    {"url": "https://www.harbourdental.example/services/invisalign/", "cluster": "C2", "keywords": ["invisalign parramatta"], "chunk_type": "Sentence edit", "placement": "Last sentence of the page / intro",
+     "heading": "", "content": "Before: \"Harbour Dental is an Invisalign provider in Parramatta.\"\nAfter (move to the intro): \"Harbour Dental is a certified provider of Invisalign in Parramatta, so you can start your treatment close to home.\"", "notes": "Confirm the provider status wording."},
+    {"url": "https://www.harbourdental.example/services/invisalign/", "cluster": "C3", "keywords": ["invisalign provider near me"], "chunk_type": "Local signals", "placement": "Intro + contact block",
+     "heading": "", "content": "- Name Parramatta and nearby suburbs in the intro: \"...for patients in Parramatta, Westmead, Harris Park and North Parramatta\"\n- Add the clinic address, opening hours and a map embed above the final call to action\n- Add Dentist (LocalBusiness) schema with address, geo and areaServed\n- Link to the Google Business Profile and show the Invisalign provider badge if the clinic has one", "notes": "Confirm the suburbs served."},
+    {"url": "https://www.harbourdental.example/services/invisalign/", "cluster": "C4", "keywords": ["how long does invisalign take"], "chunk_type": "FAQ", "placement": "New FAQ section before the final call to action",
+     "heading": "Invisalign FAQs", "content": "Q: How long does Invisalign take?\nA: Most Invisalign treatments take between [6 and 18 months], and simple cases can be quicker. How long yours takes depends on how much your teeth need to move and on wearing your aligners for 20-22 hours a day. Your 3D scan plan shows your expected timeline before you start.", "notes": "Confirm the typical treatment range the clinic quotes."},
+
+    {"url": "https://www.harbourdental.example/blog/invisalign-vs-braces/", "cluster": "C1", "keywords": ["invisalign vs braces cost", "braces or invisalign for adults", "invisalign vs braces pros and cons", "which is faster invisalign or braces"], "chunk_type": "Comparison table + verdict", "placement": "Right after the intro",
+     "heading": "Invisalign vs braces at a glance", "content": "| | Invisalign | Braces |\n| Cost | [range] | [range] |\n| Treatment time | Typically [x-y] months | Typically [x-y] months |\n| Looks | Nearly invisible | Visible brackets and wire |\n| Comfort | Smooth plastic, no wires | Brackets can rub at first |\n| Eating | Remove aligners to eat | Avoid hard and sticky foods |\n| Best for | Mild to moderate cases, adults and teens who'll wear them 22 hours a day | Complex cases, or anyone who'd forget to wear aligners |\n\nPros and cons in short: Invisalign wins on looks and comfort but only works if you wear it. Braces work around the clock and suit complex bites, but they're more visible.\nWhich is faster, Invisalign or braces? For mild cases Invisalign can be as fast or faster; for complex movements braces are often quicker.\nBraces or Invisalign for adults? Most adults choose Invisalign because it's discreet, but braces remain the better choice for severe crowding or bite problems.", "notes": "Fill in cost and treatment-time ranges from the clinic's real fees."},
+
+    {"url": "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/", "cluster": "C1", "keywords": ["dental implant lifespan"], "chunk_type": "New H2 section", "placement": "New H2 straight after the intro",
+     "heading": "Dental implant lifespan: post vs crown", "content": "A dental implant has two parts with different lifespans. The titanium post fused to your jaw is designed to be permanent and, with good care, often lasts for decades or a lifetime. The crown on top takes the daily wear of chewing, so it usually lasts 10 to 15 years before it may need replacing. When people ask about dental implant lifespan, the crown is usually the part that needs attention first.", "notes": ""},
+    {"url": "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/", "cluster": "C2", "keywords": ["do dental implants last forever"], "chunk_type": "FAQ", "placement": "New FAQ section before the conclusion",
+     "heading": "Dental implant FAQs", "content": "Q: Do dental implants last forever?\nA: The implant post can last a lifetime, but the whole implant isn't maintenance-free. The crown usually needs replacing after 10 to 15 years, and gum disease, smoking or teeth grinding can shorten the life of the post. Brushing, flossing and regular check-ups give your implant the best chance of lasting.", "notes": ""},
+    {"url": "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/", "cluster": "C3", "keywords": ["dental implant failure signs"], "chunk_type": "List section", "placement": "New H2 after 'What affects how long an implant lasts'",
+     "heading": "Signs your dental implant may be failing", "content": "See your dentist promptly if you notice any of these dental implant failure signs:\n- The implant or crown feels loose or moves when you bite\n- Pain or throbbing around the implant that doesn't settle\n- Swollen, red or bleeding gums around the implant\n- Gum shrinking back so the metal post becomes visible\n- Difficulty or discomfort when chewing\nCaught early, many implant problems can be treated without losing the implant.", "notes": ""},
+    {"url": "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/", "cluster": "C4", "keywords": ["implant vs bridge longevity"], "chunk_type": "Comparison table + verdict", "placement": "New H2 before 'Caring for your implant'",
+     "heading": "Implant vs bridge: which lasts longer?", "content": "| | Dental implant | Dental bridge |\n| Typical lifespan | Post: decades; crown: 10-15 years | Typically [10-15] years |\n| Effect on nearby teeth | None - stands alone | Neighbouring teeth are filed down to hold it |\n| Jawbone | Helps preserve bone | Bone can shrink under the gap |\nOn implant vs bridge longevity, an implant usually wins because the post can last a lifetime and it doesn't rely on the teeth next to it. A bridge can be a good, quicker option when implants aren't suitable.", "notes": "Confirm the bridge lifespan range the clinic quotes."},
+
+    {"url": "https://www.harbourdental.example/services/dental-implants/", "cluster": "C1", "keywords": ["dental implants cost", "dental implants payment plan"], "chunk_type": "Pricing section", "placement": "New H2 right after the intro",
+     "heading": "How much do dental implants cost?", "content": "A single dental implant at our Parramatta clinic typically costs [price range], including the implant post, abutment and crown. Your exact quote depends on your 3D scan.\nWhat affects dental implants cost:\n- How many teeth you're replacing\n- Whether you need a bone graft or sinus lift first\n- The type of implant and crown material\n- Single implants vs full-arch options like All-on-4\nA dental implants payment plan lets you spread the cost from [$X per week]. We give you a written, itemised quote before any treatment starts.", "notes": "Confirm price range, what's included and payment-plan terms."},
+    {"url": "https://www.harbourdental.example/services/dental-implants/", "cluster": "C2", "keywords": ["all on 4 dental implants"], "chunk_type": "New H2 section", "placement": "New H2 after 'The implant process'",
+     "heading": "All-on-4 dental implants", "content": "All-on-4 dental implants replace a full arch of teeth using just four implants. A fixed bridge of new teeth is attached to the implants, often on the same day as surgery [confirm], so you don't go without teeth while you heal. All-on-4 suits people who have lost most of their teeth or who are tired of loose dentures. It also often avoids bone grafting because the implants are angled to use the strongest bone.", "notes": "Only publish if the clinic offers All-on-4; confirm the same-day teeth claim."},
+    {"url": "https://www.harbourdental.example/services/dental-implants/", "cluster": "C3", "keywords": ["single tooth implant"], "chunk_type": "New H2 section", "placement": "New H2 before 'All-on-4 dental implants'",
+     "heading": "Single tooth implants", "content": "A single tooth implant replaces one missing tooth without touching the teeth on either side. A titanium post is placed where the root used to be, and once it has bonded with the bone a custom crown is fitted to match your natural teeth. It looks, feels and works like a real tooth, and because it stands on its own, you clean it just like the rest of your teeth.", "notes": ""},
+    {"url": "https://www.harbourdental.example/services/dental-implants/", "cluster": "C4", "keywords": ["are dental implants painful"], "chunk_type": "FAQ", "placement": "New FAQ section before 'Why choose Harbour Dental'",
+     "heading": "Dental implant FAQs", "content": "Q: Are dental implants painful?\nA: Most patients say getting a dental implant is less painful than they expected. The area is fully numbed with local anaesthetic, so you shouldn't feel pain during the procedure. Afterwards you may have some soreness and swelling for a few days, which over-the-counter pain relief usually manages. Sedation is available if you're nervous [confirm].", "notes": "Confirm sedation is offered for implant surgery."},
+
+    {"url": "https://www.harbourdental.example/services/root-canal/", "cluster": "C1", "keywords": ["root canal cost"], "chunk_type": "Pricing section", "placement": "New H2 after 'What happens during treatment'",
+     "heading": "How much does a root canal cost?", "content": "Root canal cost at our Parramatta clinic typically ranges from [price range], depending on the tooth. Front teeth have one canal and cost less; molars have three or four canals and take longer.\nWhat affects the price:\n- Which tooth needs treatment (front, premolar or molar)\n- How many canals need cleaning\n- Whether you need a crown afterwards\n- Whether the tooth has had a root canal before\nYour health fund may cover part of the cost under major dental. Payment plans are available [confirm].", "notes": "Confirm price ranges and payment plans."},
+    {"url": "https://www.harbourdental.example/services/root-canal/", "cluster": "C2", "keywords": ["does a root canal hurt"], "chunk_type": "FAQ", "placement": "New FAQ section before the final call to action",
+     "heading": "Root canal FAQs", "content": "Q: Does a root canal hurt?\nA: A root canal shouldn't hurt more than a normal filling. Your dentist numbs the tooth completely before starting, and the treatment removes the infection that was causing your pain. Expect some tenderness for a few days afterwards, which usually settles with over-the-counter pain relief.", "notes": ""},
+    {"url": "https://www.harbourdental.example/services/root-canal/", "cluster": "C3", "keywords": ["root canal parramatta"], "chunk_type": "Location sentence", "placement": "Intro + H1",
+     "heading": "Root Canal Treatment in Parramatta", "content": "Our Parramatta dentists provide gentle root canal treatment to save infected or badly damaged teeth, with same-week appointments for patients in pain [confirm].", "notes": "Use 'Root Canal Treatment in Parramatta' as the new H1. Confirm same-week appointments."},
+    {"url": "https://www.harbourdental.example/services/root-canal/", "cluster": "C4", "keywords": ["root canal recovery time"], "chunk_type": "New H2 section", "placement": "New H2 after the cost section",
+     "heading": "Root canal recovery time", "content": "Most people are back to normal activities the same day or the next day. Root canal recovery time is usually a few days of mild tenderness while the area around the tooth settles. Chew on the other side until your permanent filling or crown is fitted, keep brushing and flossing as usual, and call us if pain gets worse after three days or you notice swelling.", "notes": ""},
+
+    {"url": "https://www.harbourdental.example/blog/teeth-whitening-cost/", "cluster": "C1", "keywords": ["how much is teeth whitening", "teeth whitening cost australia", "zoom whitening price", "take home whitening kit cost"], "chunk_type": "Pricing table", "placement": "Right after the intro",
+     "heading": "How much is teeth whitening?", "content": "Here's what professional teeth whitening costs at Harbour Dental:\n| Treatment | Price | Time | Best for |\n| In-chair whitening | [price] | About 1 hour | Fast results for an event |\n| Zoom whitening | [price] | About 1 hour | [confirm offered] |\n| Take-home whitening kit | [price] | 2 weeks | Gradual results, top-ups |\n| In-chair + take-home combo | [price] | 1 hour + top-ups | Longest-lasting results |\nAcross Australia, teeth whitening cost varies with the treatment type and the clinic. A dentist-supervised take-home whitening kit costs less than an in-chair session but takes longer. Zoom whitening price is usually at the top of the range because of the light-activated system.", "notes": "Fill in every price. Remove the Zoom row if the clinic doesn't offer it."},
+
+    {"url": "https://www.harbourdental.example/services/childrens-dentistry/", "cluster": "C1", "keywords": ["kids dentist near me"], "chunk_type": "Local signals", "placement": "Intro + contact block",
+     "heading": "", "content": "- Intro: name Parramatta and nearby suburbs families come from\n- Add parking/pram access and the nearest station to the contact block\n- Add Dentist schema with address, opening hours and areaServed\n- Show Google reviews from parents (link to the Business Profile)", "notes": "Confirm suburbs and parking details."},
+    {"url": "https://www.harbourdental.example/services/childrens-dentistry/", "cluster": "C2", "keywords": ["child dental benefits schedule"], "chunk_type": "New H2 section", "placement": "New H2 after 'Services for kids'",
+     "heading": "Child Dental Benefits Schedule (CDBS)", "content": "We [accept / bulk bill] the Child Dental Benefits Schedule, a Medicare program that helps eligible families pay for their children's basic dental care. If your child is eligible, the CDBS can cover check-ups, cleans, fillings and more up to a set amount over two calendar years. Bring your Medicare card to your appointment and we'll check your child's balance for you.", "notes": "Confirm whether the clinic bulk bills CDBS and check current eligibility rules and cap on servicesaustralia.gov.au before publishing."},
+    {"url": "https://www.harbourdental.example/services/childrens-dentistry/", "cluster": "C3", "keywords": ["childrens dentist parramatta"], "chunk_type": "Location sentence", "placement": "Intro + H1",
+     "heading": "Children's Dentist in Parramatta", "content": "Looking for a friendly children's dentist in Parramatta? Our team loves looking after kids and helping them feel relaxed at every visit.", "notes": "Use 'Children's Dentist in Parramatta' as the new H1."},
+    {"url": "https://www.harbourdental.example/services/childrens-dentistry/", "cluster": "C4", "keywords": ["bulk billing kids dentist"], "chunk_type": "Sentence (inside the CDBS section)", "placement": "Last sentence of the CDBS section (chunk C2)",
+     "heading": "", "content": "As a bulk billing kids dentist for eligible CDBS patients, we bill Medicare directly, so there's nothing to pay on the day for covered treatment.", "notes": "Only publish if the clinic bulk bills under CDBS."},
+    {"url": "https://www.harbourdental.example/services/childrens-dentistry/", "cluster": "C5", "keywords": ["first dental visit age"], "chunk_type": "New H2 section", "placement": "New H2 before 'Services for kids'",
+     "heading": "When should your child first see a dentist?", "content": "The recommended first dental visit age is when your child's first tooth appears, or by their first birthday. Early visits are short and gentle: we count teeth, check for early decay and show you how to brush little teeth. Starting young helps children see the dentist as a normal, friendly part of life.", "notes": "Check the wording against current Australian Dental Association guidance."},
+
+    {"url": "https://www.harbourdental.example/services/dental-crowns/", "cluster": "C1", "keywords": ["dental crown cost"], "chunk_type": "Pricing section", "placement": "New H2 after 'What is a crown?'",
+     "heading": "How much does a dental crown cost?", "content": "Dental crown cost at our Parramatta clinic typically ranges from [price range] per tooth. The main things that change the price are:\n- The material: porcelain, zirconia or gold\n- Whether the tooth needs a root canal or core build-up first\n- Same-day vs lab-made crowns [confirm]\nMost health funds with major dental cover pay part of the cost, and payment plans are available [confirm].", "notes": "Confirm prices, same-day crowns and payment plans."},
+    {"url": "https://www.harbourdental.example/services/dental-crowns/", "cluster": "C2", "keywords": ["porcelain crowns"], "chunk_type": "Sentence edit", "placement": "Under 'What is a crown?'",
+     "heading": "", "content": "Before: \"Crowns are made from porcelain, zirconia or gold and are custom-made to match your teeth.\"\nAfter: \"We offer porcelain crowns, zirconia crowns and gold crowns, each custom-made to match your teeth. Porcelain crowns are the most natural-looking choice for front teeth.\"", "notes": ""},
+    {"url": "https://www.harbourdental.example/services/dental-crowns/", "cluster": "C3", "keywords": ["dental crowns parramatta"], "chunk_type": "Location sentence", "placement": "Intro + H1",
+     "heading": "Dental Crowns in Parramatta", "content": "Our dentists provide custom dental crowns in Parramatta to restore cracked, worn or heavily filled teeth so they look and work like new.", "notes": "Use 'Dental Crowns in Parramatta' as the new H1."},
+    {"url": "https://www.harbourdental.example/services/dental-crowns/", "cluster": "C4", "keywords": ["crown vs filling"], "chunk_type": "Comparison table + verdict", "placement": "New H2 after the cost section",
+     "heading": "Crown vs filling: which do you need?", "content": "| | Filling | Crown |\n| Best for | Small to medium cavities | Large damage, cracks, after root canal |\n| How much tooth is kept | Most of the tooth | Tooth is shaped to fit a cap |\n| Visits | Usually one | One or two |\n| Typical lifespan | [range] | [range] |\nCrown vs filling comes down to how much healthy tooth is left. If a cavity is small, a filling is simpler and cheaper. If more than about half the tooth is damaged, a crown protects it from cracking.", "notes": "Confirm lifespan ranges."}
+  ]
+}

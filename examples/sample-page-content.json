@@ -1,0 +1,74 @@
+{
+  "https://www.harbourdental.example/services/teeth-whitening/": {
+    "title": "Teeth Whitening Services | Harbour Dental Clinic Parramatta NSW Australia",
+    "meta_description": "Harbour Dental offers teeth whitening.",
+    "h1": ["Teeth Whitening"],
+    "headings": [["h1", "Teeth Whitening"], ["h2", "Our Whitening Treatments"], ["h2", "Take-Home Whitening Kits"], ["h2", "Book Your Appointment"]],
+    "schema_types": ["Dentist", "LocalBusiness"],
+    "body_text": "Teeth Whitening. A brighter smile can make a big difference to how you feel. At Harbour Dental in Parramatta our team provides professional teeth whitening for adults who want to remove stains caused by coffee, tea, red wine and smoking. Our Whitening Treatments. We offer an in-chair whitening session that takes about one hour. Before we start, your dentist checks your teeth and gums to make sure whitening is suitable for you. A protective barrier is placed over your gums and a professional-strength whitening gel is applied to your teeth. Most patients see a noticeable change after a single visit. Take-Home Whitening Kits. If you prefer to whiten at home, we can make custom-fitted trays for you. You wear the trays with a lower-strength gel for a set time each day for two weeks. Take-home kits are a good option for maintaining your results after an in-chair session. Book Your Appointment. Call our Parramatta clinic or book online to arrange a consultation with one of our dentists. We are open six days a week with early and late appointments available."
+  },
+  "https://www.harbourdental.example/services/invisalign/": {
+    "title": "Invisalign",
+    "meta_description": "",
+    "h1": ["Invisalign Clear Aligners in Parramatta"],
+    "headings": [["h1", "Invisalign Clear Aligners in Parramatta"], ["h2", "What is Invisalign?"], ["h2", "Who is Invisalign suitable for?"], ["h2", "Your Invisalign journey"]],
+    "schema_types": ["Dentist"],
+    "body_text": "Invisalign Clear Aligners in Parramatta. Straighten your teeth without metal brackets or wires. What is Invisalign? Invisalign is a system of clear, removable aligners that gradually move your teeth into position. Each set of aligners is worn for one to two weeks before moving to the next set. Because the aligners are nearly invisible, most people will not notice you are wearing them. Who is Invisalign suitable for? Invisalign can treat crowded teeth, gaps, overbites, underbites and crossbites in teens and adults. Your dentist will assess your teeth with a 3D scan to confirm whether Invisalign is right for you. Your Invisalign journey. Your first visit includes an examination, digital scan and a treatment plan that shows how your teeth will move. You will then receive your aligners and visit us every six to eight weeks so we can check your progress. Harbour Dental is an Invisalign provider in Parramatta."
+  },
+  "https://www.harbourdental.example/blog/invisalign-vs-braces/": {
+    "title": "Blog | Harbour Dental",
+    "meta_description": "Read our latest article from the Harbour Dental team.",
+    "h1": ["Invisalign vs Braces"],
+    "headings": [["h1", "Invisalign vs Braces"], ["h2", "How braces work"], ["h2", "How Invisalign works"], ["h2", "Which one should you choose?"]],
+    "schema_types": ["Article"],
+    "body_text": "Invisalign vs Braces. If you want straighter teeth you have probably wondered whether to choose Invisalign or traditional braces. Both treatments can give you a great result, but they work in different ways. How braces work. Braces use metal or ceramic brackets bonded to your teeth, connected by a wire that your orthodontist tightens over time. Braces are fixed in place, so they work around the clock and suit complex cases. How Invisalign works. Invisalign uses a series of clear plastic aligners. You remove them to eat and brush, and you need to wear them for 20 to 22 hours a day for the best results. Which one should you choose? The right option depends on your bite, your lifestyle and how disciplined you are about wearing aligners. Book a consultation and we will explain which treatment suits you."
+  },
+  "https://www.harbourdental.example/blog/how-long-do-dental-implants-last/": {
+    "title": "How Long Do Dental Implants Last? | Harbour Dental",
+    "meta_description": "How long do dental implants last? Learn about dental implants and how long they last.",
+    "h1": ["How Long Do Dental Implants Last?"],
+    "headings": [["h1", "How Long Do Dental Implants Last?"], ["h2", "What affects how long an implant lasts"], ["h2", "Caring for your implant"]],
+    "schema_types": ["Article"],
+    "body_text": "How Long Do Dental Implants Last? With good care, the titanium implant post placed in your jaw can last for decades and often for the rest of your life. The crown attached to the implant usually lasts 10 to 15 years before it may need replacing due to normal wear. What affects how long an implant lasts. Smoking, gum disease, teeth grinding and conditions such as uncontrolled diabetes can shorten the life of an implant. The skill of the dentist and the quality of the bone around the implant also matter. Caring for your implant. Brush twice a day, floss or use interdental brushes around the implant, and see your dentist for regular check-ups and cleans. If you grind your teeth, a night guard can protect your implant crown."
+  },
+  "https://www.harbourdental.example/services/dental-implants/": {
+    "title": "Dental Implants Parramatta | Harbour Dental",
+    "meta_description": "Replace missing teeth with dental implants at Harbour Dental in Parramatta. Book a consultation today.",
+    "h1": ["Dental Implants in Parramatta"],
+    "headings": [["h1", "Dental Implants in Parramatta"], ["h2", "What is a dental implant?"], ["h2", "The implant process"], ["h2", "Why choose Harbour Dental"]],
+    "schema_types": ["Dentist", "LocalBusiness"],
+    "body_text": "Dental Implants in Parramatta. A dental implant is the closest thing to a natural tooth. What is a dental implant? An implant is a small titanium post placed into the jawbone. Once it has bonded with the bone, a custom crown is attached to replace the missing tooth. The implant process. First we assess your mouth with a 3D scan. The implant is placed under local anaesthetic, then left to heal for three to six months. Finally your crown is fitted. Why choose Harbour Dental. Our dentists have placed implants for over 15 years and we use quality implant systems backed by long warranties."
+  },
+  "https://www.harbourdental.example/services/root-canal/": {
+    "title": "Root Canal Treatment | Harbour Dental",
+    "meta_description": "Root canal treatment in Parramatta to save infected teeth.",
+    "h1": ["Root Canal Treatment"],
+    "headings": [["h1", "Root Canal Treatment"], ["h2", "When do you need a root canal?"], ["h2", "What happens during treatment"]],
+    "schema_types": ["Dentist"],
+    "body_text": "Root Canal Treatment. A root canal treatment removes infected or inflamed pulp from inside your tooth so the tooth can be saved. When do you need a root canal? Signs include severe toothache, sensitivity to hot or cold that lingers, swelling of the gum, or a darkened tooth. What happens during treatment. Your dentist numbs the area, cleans out the infected pulp, shapes the canals and seals them. Most root canals are completed over two visits. A crown is often recommended afterwards to protect the tooth."
+  },
+  "https://www.harbourdental.example/blog/teeth-whitening-cost/": {
+    "title": "Teeth Whitening Cost | Harbour Dental",
+    "meta_description": "Find out how much teeth whitening costs.",
+    "h1": ["Teeth Whitening Cost"],
+    "headings": [["h1", "Teeth Whitening Cost"], ["h2", "In-chair whitening"], ["h2", "Take-home kits"]],
+    "schema_types": ["Article"],
+    "body_text": "Teeth Whitening Cost. The cost of teeth whitening depends on the type of treatment you choose. In-chair whitening. Professional in-chair whitening is the fastest option and is completed in about one hour at the clinic. Take-home kits. Custom take-home kits are made from moulds of your teeth and used over two weeks. Contact us for current prices."
+  },
+  "https://www.harbourdental.example/services/childrens-dentistry/": {
+    "title": "Children's Dentistry | Harbour Dental Parramatta",
+    "meta_description": "Gentle children's dentistry in Parramatta. Check-ups, cleans and fissure sealants for kids.",
+    "h1": ["Children's Dentistry"],
+    "headings": [["h1", "Children's Dentistry"], ["h2", "Gentle care for little smiles"], ["h2", "Services for kids"]],
+    "schema_types": ["Dentist"],
+    "body_text": "Children's Dentistry. Gentle care for little smiles. Our Parramatta team loves looking after children and helping them feel relaxed at the dentist. Services for kids. We provide check-ups, cleans, fluoride treatments, fissure sealants and fillings for children of all ages. We explain every step in a friendly way so your child knows what to expect."
+  },
+  "https://www.harbourdental.example/services/dental-crowns/": {
+    "title": "Dental Crowns | Harbour Dental",
+    "meta_description": "Dental crowns in Parramatta.",
+    "h1": ["Dental Crowns"],
+    "headings": [["h1", "Dental Crowns"], ["h2", "What is a crown?"]],
+    "schema_types": ["Dentist"],
+    "body_text": "Dental Crowns. What is a crown? A crown is a cap that covers a damaged or weakened tooth to restore its shape, strength and appearance. Crowns are made from porcelain, zirconia or gold and are custom-made to match your teeth."
+  }
+}
